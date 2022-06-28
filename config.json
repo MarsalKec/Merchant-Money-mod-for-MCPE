@@ -1,0 +1,158 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Energy Shaders",
+        "role": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free! Energy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android. The most noticeable differences are for the water and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience. It also comes with some nice 32�32 clear glass textures.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/enam_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/Energy Shaders v. 3.7.1.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/tiga.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/lima_desc.png"
+    },
+    {
+        "name": "HTRE Shader",
+        "role": "HTRE Shader is one of the best shaders for slow devices, such as a Kindle Fire HD8 7th gen, which can barely run any nice shaders. I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all! If you want that you should download this shader!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/duabelas_desc.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/HTREShader/HTREShader.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/sebelas_desc.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/enam.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jAxRGaVFY7IwZNSF8ztbqAZqLzoyntlvFGk_IF7meiOluIKm1jJO3ZOVWcT_bketLVetgRR3HBbz1ms2tk6HUCA",
+    "view_skin": "https://lh3.googleusercontent.com/bo4A_AtdIG_jQ5sUXHESkkgEeg06ARmMeRzhHa6M188w2ROb4BVErBsGjrTc5g9i4Zz22QXmtI0gLhKcSWQS-eI"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/K95k6zoQYsW_EqlsCN6m3I5ZtRJrrWxeXKtMDCUYOBGZ0-jU5b4gocsCi29fuf0BYcNX76NdHDnf5KjClCacvoA",
+    "view_skin": "https://lh3.googleusercontent.com/ZCTVLefE6z1p6MP4KaC8FhsuNN9Bi9mRnJdDLaD8d_6KG3dPi0cR460X6AkMsGhylp4mQ7Mx4wMVftWdPpBW"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/GA4eSGJcPWPHe2UZf9VWLQwCfCKbD98OI5Q1QuaeIksAtWnRICgvIIDjHpRoughV74Uv1BhkPRGvzWLifNDWsYiaRioPnjm8VA",
+    "view_skin": "https://lh3.googleusercontent.com/z_cs2eFyDjQPA6XPtYy5XZVR7heYufQWjZEXWwh1Dbyvor4u_N6_g2NxekMiLRFr1CbPFpgI70bFHLVN5MsuhbnvDtJ1ns7c77G3"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/OPwFSAmZ_ra5DK9OaMPAVNAWXupNCUf4SPSN-VRjI2O6YEGih8mM3wMzIk8MFMqJaf-SDN9jNudZ_iamB8O5",
+    "view_skin": "https://lh3.googleusercontent.com/u-4G59P2IR8KMIkDsZ_JZf7IaI8dfxi0FbqVOpJ3pqmGtJMUxrdy4rhyMAgRHMDU7NvRtVavkc4SueUqtiXxcQ"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/cbrtQ7Uk6_QR36pYmz8DHJOBsanvmcBPXQ-4F7h0zYVhXRaNYyk0vcuYDZsuK4PZS8LGHjYGBs3Y540TRnx6HmERoKKBiYbURvk",
+    "view_skin": "https://lh3.googleusercontent.com/VBxpJrot8qnNcYZT-yFwT0lwlga2bfEBKLAwoVeEr3VAmpvx8axaztuB8iYOUQZp7HmSENYv9LvZ_mC4CUK1iiMCPENrFg4_kug"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/jAxRGaVFY7IwZNSF8ztbqAZqLzoyntlvFGk_IF7meiOluIKm1jJO3ZOVWcT_bketLVetgRR3HBbz1ms2tk6HUCA",
+    "view_skin": "https://lh3.googleusercontent.com/Xx47TOObWR1wALAev9Bhpnk1jJPGu1hCbox_EXaLNh5jKqLH1ijo-adykSX39JykZfDz1HLbWSMZIYdaEcMGxw"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/P1mAIGapnUx8vnsnG6BY3L74rp9wzEIpaI4L09YhXc_vYjNnwBdDdEnDSd0TTcdUkEucJG27_TtTfuoFlS1oFQ",
+    "view_skin": "https://lh3.googleusercontent.com/XjGcKNk-ZUgI1W2U6jEQeGbddvPWSjQ4wtVhPLOTDUvsGcnWn04mFvCX1N9YJ_OirnChTu9D7YXTyS9AleIfGdY"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yGJ4PDw3YlinY3b6Gxj1qUhlklvFde_bwcU7xZjknwlp0W8ozcevY67JJCx1vo0-RveFoiDjuyLuKDqEDLE-DV00kjbxvVH6JA",
+    "view_skin": "https://lh3.googleusercontent.com/ViZJ1AK2G7AIM1YZ1hIW3txe-jTSueNpX67b0-sn2B-MoZoeTCIoDg6R-swC8rPMzz85-gN1y_6qSbUlVmX7XL0lTxWSyEHw8iEr"
+  },
+  {
+    "id": 9,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/9lyBQvqy9Xd80J6WsOptx_vKyy7GU0OMjhULmS7hfme2KRYP7INlczTppY0Gmm4P6GQdV60OoE2IV3BMGDIUcW9H6lpvmwrYVA",
+    "view_skin": "https://lh3.googleusercontent.com/cLAzyyOBrsdT0r9S3X2PuROOXtddSJmf5UliQlTHwNjl2aDriIL7325SJxc8NAfdqP4tCTkzDBj43Y_O3Rr5RAyiP1199zetm8Q"
+  },
+  {
+    "id": 10,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/j0eF1yENmZompxO8vOVaYPkzwrAm9ZGfXHmIpIeKQJTNkKk78Ux1L01MWIW2SpB0dNeJaq42QJf1rPSIfWa0",
+    "view_skin": "https://lh3.googleusercontent.com/HUGdR3RRntl9wGiF_3Xf8y-Xj21BrE0Xo_MOVxwoxoy4qu0xe0QOoplhwdYuB5dfzV2XwDZrnT71LKeNpUc9pAM"
+  },
+  {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/i2dxqwcQoKiyZZifiuswKiua2JXPcjWe7W3DrDEmpn363a6Y7bDmGT8pUE8E38cP9lndYa0rul41t5SoCSqQrbKQuFJYaulg5fM",
+    "view_skin": "https://lh3.googleusercontent.com/Q_YwB32yObc3Ao0iyMja5SH6Zhv45Pvbtb-CRyBAVge3eSLDnX1fifozgmvNH9zVgxoQw4UX_GAqvuKTcKxnQ_otC-g9MA8qyysf"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
